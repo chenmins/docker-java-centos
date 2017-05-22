@@ -35,8 +35,7 @@ Example to run a container with OpenJDK version 7 JDK
 Example to test java -version
 
 ```bash
-docker run -it --rm chenmins/java-centos /bin/bash
-[root@40844ba27eae ~]# java -version
+docker run -it --rm chenmins/java-centos java -version
 java version "1.8.0_121"
 Java(TM) SE Runtime Environment (build 1.8.0_121-b13)
 Java HotSpot(TM) 64-Bit Server VM (build 25.121-b13, mixed mode)
