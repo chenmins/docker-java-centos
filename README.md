@@ -26,11 +26,10 @@ The available version are
 * oracle-8-jre           - Oracle Java version 8 JRE
 * oracle-8-jdk           - Oracle Java version 8 JDK
 
-|Tables         | Are           | Cool  |
+|Tags         | Info           | Goods  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| latest | currently Oracle Java version 8 JRE | [![](https://images.microbadger.com/badges/image/chenmins/java-centos.svg)](https://microbadger.com/images/chenmins/java-centos "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/version/chenmins/java-centos.svg)](https://microbadger.com/images/chenmins/java-centos "Get your own version badge on microbadger.com") |
+| openjdk-7-jdk  | OpenJDK Java version 7 JDK | [![](https://images.microbadger.com/badges/image/chenmins/java-centos:openjdk-7-jdk.svg)](https://microbadger.com/images/chenmins/java-centos:openjdk-7-jdk "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/version/chenmins/java-centos:openjdk-7-jdk.svg)](https://microbadger.com/images/chenmins/java-centos:openjdk-7-jdk "Get your own version badge on microbadger.com") |
 
 Example to run a container with OpenJDK version 7 JDK
 
