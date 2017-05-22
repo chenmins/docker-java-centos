@@ -26,6 +26,12 @@ The available version are
 * oracle-8-jre           - Oracle Java version 8 JRE
 * oracle-8-jdk           - Oracle Java version 8 JDK
 
+|Tables         | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 Example to run a container with OpenJDK version 7 JDK
 
 `docker run -ti --rm chenmins/java-centos:openjdk-7-jdk`
