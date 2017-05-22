@@ -2,13 +2,9 @@
 
 This is docker images of CentOS 7 with different versions of java
 
-[![Docker Stars](https://img.shields.io/docker/stars/chenmins/java-centos.svg)]() [![Docker Pulls](https://img.shields.io/docker/pulls/mashape/kong.svg)]() [![Docker Automated buil](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)]() [![Docker Build Statu](https://img.shields.io/docker/build/jrottenberg/ffmpeg.svg)]()
+[![Docker Stars](https://img.shields.io/docker/stars/chenmins/java-centos.svg)]() [![Docker Pulls](https://img.shields.io/docker/pulls/chenmins/java-centos.svg)]() [![Docker Automated buil](https://img.shields.io/docker/automated/chenmins/java-centos.svg)]() [![Docker Build Statu](https://img.shields.io/docker/build/chenmins/java-centos.svg)]()
 
-[![](https://images.microbadger.com/badges/image/chenmins/java-centos.svg)](https://microbadger.com/images/chenmins/java-centos "Get your own image badge on microbadger.com")
-
-[![](https://images.microbadger.com/badges/version/chenmins/java-centos.svg)](https://microbadger.com/images/chenmins/java-centos "Get your own version badge on microbadger.com")
-
-[![](https://images.microbadger.com/badges/license/chenmins/java-centos.svg)](https://microbadger.com/images/chenmins/java-centos "Get your own license badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/chenmins/java-centos.svg)](https://microbadger.com/images/chenmins/java-centos "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/version/chenmins/java-centos.svg)](https://microbadger.com/images/chenmins/java-centos "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/license/chenmins/java-centos.svg)](https://microbadger.com/images/chenmins/java-centos "Get your own license badge on microbadger.com")
 
 ### Loading different versions of java
 
