@@ -1,6 +1,6 @@
 FROM centos:7
 
-MAINTAINER nimmis <kjell.havneskold@gmail.com>
+MAINTAINER Chenmin <cnlll@qq.com>
 
 ENV JAVA_VERSION_MAJOR=8 \
     JAVA_VERSION_MINOR=121 \
