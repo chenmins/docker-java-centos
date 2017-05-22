@@ -1,6 +1,7 @@
 ## Java with CentOS 7
 
 This is docker images of CentOS 7 with different versions of java
+
 [![](https://images.microbadger.com/badges/image/chenmins/mysql.svg)](https://microbadger.com/images/chenmins/mysql "Get your own image badge on microbadger.com")
 
 [![](https://images.microbadger.com/badges/version/chenmins/mysql.svg)](https://microbadger.com/images/chenmins/mysql "Get your own version badge on microbadger.com")
