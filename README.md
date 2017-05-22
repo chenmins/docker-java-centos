@@ -2,6 +2,14 @@
 
 This is docker images of CentOS 7 with different versions of java
 
+[![Docker Stars](https://img.shields.io/docker/stars/_/ubuntu.svg)]()
+
+[![Docker Pulls](https://img.shields.io/docker/pulls/mashape/kong.svg)]()
+
+[![Docker Automated buil](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)]()
+
+[![Docker Build Statu](https://img.shields.io/docker/build/jrottenberg/ffmpeg.svg)]()
+
 [![](https://images.microbadger.com/badges/image/chenmins/mysql.svg)](https://microbadger.com/images/chenmins/mysql "Get your own image badge on microbadger.com")
 
 [![](https://images.microbadger.com/badges/version/chenmins/mysql.svg)](https://microbadger.com/images/chenmins/mysql "Get your own version badge on microbadger.com")
@@ -25,6 +33,6 @@ The available version are
 
 Example to run a container with OpenJDK version 7 JDK
 
-	`docker run -ti chenmins/java-centos:openjdk-7-jdk`
+`docker run -ti chenmins/java-centos:openjdk-7-jdk`
 
 
